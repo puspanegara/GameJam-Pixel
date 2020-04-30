@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 11d37ca0fd424f04e9076ea0b2474063
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2807888270306770505
+    second: game jam tile _0
+  - first:
+      213: 8035932410991586631
+    second: game jam tile _1
+  - first:
+      213: 501766769033821646
+    second: game jam tile _2
+  - first:
+      213: -1996094413493670946
+    second: game jam tile _3
+  - first:
+      213: 7433541856393016159
+    second: game jam tile _4
+  - first:
+      213: -4585872136555634888
+    second: game jam tile _5
+  - first:
+      213: 5561919651693560868
+    second: game jam tile _6
+  - first:
+      213: 6349732575466564643
+    second: game jam tile _7
+  - first:
+      213: -96656850558229607
+    second: game jam tile _8
+  - first:
+      213: -7167243595634562052
+    second: game jam tile _9
+  - first:
+      213: 3504754940724251795
+    second: game jam tile _10
+  - first:
+      213: 3368394102711056219
+    second: game jam tile _11
+  - first:
+      213: 609586904176894954
+    second: game jam tile _12
+  - first:
+      213: 8271111010090699102
+    second: game jam tile _13
+  - first:
+      213: -1616039648390905524
+    second: game jam tile _14
+  - first:
+      213: -8082909315299796081
+    second: game jam tile _15
+  - first:
+      213: 588445780555204241
+    second: game jam tile _16
+  - first:
+      213: -3984915811049258572
+    second: game jam tile _17
+  - first:
+      213: 368183780944145565
+    second: game jam tile _18
+  - first:
+      213: 3049219345752584586
+    second: game jam tile _19
+  - first:
+      213: -7210563705249931969
+    second: game jam tile _20
+  - first:
+      213: 7210029941167309891
+    second: game jam tile _21
+  - first:
+      213: 1922646103727735098
+    second: game jam tile _22
+  - first:
+      213: -6104662888517120847
+    second: game jam tile _23
+  - first:
+      213: -1448220729887511814
+    second: game jam tile _24
+  - first:
+      213: 2782997031596693707
+    second: game jam tile _25
+  - first:
+      213: -751119218850685604
+    second: game jam tile _26
+  - first:
+      213: 6851526649675982974
+    second: game jam tile _27
+  - first:
+      213: -7782344551107191469
+    second: game jam tile _28
+  - first:
+      213: -7202947211982698424
+    second: game jam tile _29
+  - first:
+      213: -1019346220647270080
+    second: game jam tile _30
+  - first:
+      213: -2125598259137258068
+    second: game jam tile _31
+  - first:
+      213: 5155980990928305214
+    second: game jam tile _32
+  - first:
+      213: -8614289487070464166
+    second: game jam tile _33
+  - first:
+      213: 1832459210004521384
+    second: game jam tile _34
+  - first:
+      213: 3356054526266271367
+    second: game jam tile _35
+  - first:
+      213: -6157190592479735069
+    second: game jam tile _36
+  - first:
+      213: 7221920842579830182
+    second: game jam tile _37
+  - first:
+      213: 5850284083098060441
+    second: game jam tile _38
+  - first:
+      213: -803891982913310572
+    second: game jam tile _39
+  - first:
+      213: 1379624014547218818
+    second: game jam tile _40
+  - first:
+      213: -1078012241900096094
+    second: game jam tile _41
+  - first:
+      213: -3477401231700090481
+    second: game jam tile _42
+  - first:
+      213: -4926291580107696768
+    second: game jam tile _43
+  - first:
+      213: -192489447484561384
+    second: game jam tile _44
+  - first:
+      213: -6243636764006489668
+    second: game jam tile _45
+  - first:
+      213: -1383516308262946892
+    second: game jam tile _46
+  - first:
+      213: 1918370518580052017
+    second: game jam tile _47
+  - first:
+      213: -2815050235115774263
+    second: game jam tile _48
+  - first:
+      213: 7426834074708000225
+    second: game jam tile _49
+  - first:
+      213: 6277679073335536395
+    second: game jam tile _50
+  - first:
+      213: -5748154136651723732
+    second: game jam tile _51
+  - first:
+      213: 993677787119845190
+    second: game jam tile _52
+  - first:
+      213: -263327156250899711
+    second: game jam tile _53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game jam tile _0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 125
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b10167be706809d0800000000000000
+      internalID: -2807888270306770505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da33c93fd558f60800000000000000
+      internalID: 8035932410991586631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 78
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3b5cc732a6f600800000000000000
+      internalID: 501766769033821646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb6199e4b27c44e0800000000000000
+      internalID: -1996094413493670946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bd4d0fee392760800000000000000
+      internalID: 7433541856393016159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 128
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5d3bb695bb50c0800000000000000
+      internalID: -4585872136555634888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42485747478ef2d40800000000000000
+      internalID: 5561919651693560868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 64
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c29639228ce1850800000000000000
+      internalID: 6349732575466564643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936e554b1b98aef0800000000000000
+      internalID: -96656850558229607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb22876ce5d88c90800000000000000
+      internalID: -7167243595634562052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c0aa2bc0463a030800000000000000
+      internalID: 3504754940724251795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57fc930790febe20800000000000000
+      internalID: 3368394102711056219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 48
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a1334f00b57800800000000000000
+      internalID: 609586904176894954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 48
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59474634a3e8c270800000000000000
+      internalID: 8271111010090699102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4186be708ca299e0800000000000000
+      internalID: -1616039648390905524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1cd58dccb3df80800000000000000
+      internalID: -8082909315299796081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960297d1549a2800800000000000000
+      internalID: 588445780555204241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 33
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1429ece2cb2b8c0800000000000000
+      internalID: -3984915811049258572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 33
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6c33b23d0c1500800000000000000
+      internalID: 368183780944145565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f4d9e6d0015a20800000000000000
+      internalID: 3049219345752584586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game jam tile _20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd046638eeeeb90800000000000000
+      internalID: -7210563705249931969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

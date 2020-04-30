@@ -11,7 +11,6 @@ public class House : MonoBehaviour
     public Text textScorePemain2; 
     private HouseCek houseCek;
     public Sprite CheckImage;
-    public GameObject image;
     
     //public bool diKunjungi;
     // Start is called before the first frame update
