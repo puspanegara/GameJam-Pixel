@@ -10,6 +10,7 @@ public class House : MonoBehaviour
     public Text countHouseText; 
     private HouseCek houseCek;
     public GameObject imageCek;
+    public Sprite CheckImage;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,10 +32,12 @@ public class House : MonoBehaviour
                 if(houseCek.isDone[i] == false)
                 {
                     houseCek.isDone[i] = true;
-                    Instantiate(imageCek, houseCek.houses[i].transform, false); 
+                    //Instantiate(imageCek, houseCek.houses[i].transform, false); 
+                    this.gameObject.GetComponent<SpriteRenderer>().sprite= CheckImage;
                     break;
                 }
             }
+            
           }  
     }
 }
