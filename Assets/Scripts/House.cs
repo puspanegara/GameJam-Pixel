@@ -66,7 +66,7 @@ public class House : MonoBehaviour
     {
         for(int i=0; i < houseCek.isDone.Length; i++)
         {
-            if(houseCek.isDone[i]== false)
+            if(houseCek.isDone[i] != true)
             {
                 if(other.CompareTag("Player"))
                 {
@@ -87,6 +87,10 @@ public class House : MonoBehaviour
                         break;
                 }
             } 
+            else
+            {
+                break;
+            }
         }
         
     }

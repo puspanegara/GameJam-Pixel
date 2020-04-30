@@ -11,12 +11,5 @@ public class HouseCek : MonoBehaviour
 
    void Update() 
    {
-    for(int i=0; i <isDone.Length; i++)
-    {
-        if(isDone[i] == true)
-        {
-            donePanel.SetActive(true);
-        }
-    }
    }
 }
