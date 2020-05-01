@@ -7,9 +7,10 @@ public class HouseCek : MonoBehaviour
 {
     public bool[] isDone;
     public GameObject[] houses;
-   public GameObject donePanel;
+    public GameObject donePanel;
+    void Update()
+    {
+        
+    }
 
-   void Update() 
-   {
-   }
 }
